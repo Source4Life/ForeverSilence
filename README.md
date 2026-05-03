@@ -8,7 +8,7 @@ tired of someone breathing directly into their mic like a jet engine?
 
 ## What is this?
 
-**ForeverSilence** is a simple mod that mutes all players
+**ForeverSilence** is a simple gorilla tagvmod that mutes all players
 no noise. no chaos. just you and your thoughts.
 *(hope you like your thoughts) :p*
 
